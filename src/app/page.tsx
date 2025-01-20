@@ -10,7 +10,6 @@ import Offer from "./components/Offer"
 import Card from "./components/Card"
 import Reservation from "./components/Reservation"
 import Footer from "./components/Footer"
-// import Productcard from './components/Productcard'
 import Testimonals from "./components/Testimonals"
 
  
@@ -28,7 +27,6 @@ import Testimonals from "./components/Testimonals"
     <Card />
     <Reservation />
     <Footer />
-    {/* <Productcard /> */}
     <Testimonals />
     
   </div>
