@@ -1,5 +1,6 @@
 "use client";
-import { Product } from '@/pages/types';
+import { Product } from '@/types/types';
+
 import React from 'react'
 
 interface ProductCardProps extends Product {

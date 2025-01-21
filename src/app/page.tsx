@@ -10,7 +10,6 @@ import Offer from "./components/Offer"
 import Card from "./components/Card"
 import Reservation from "./components/Reservation"
 import Footer from "./components/Footer"
-import Testimonals from "./components/Testimonals"
 
  
  export default function App() {
@@ -27,7 +26,6 @@ import Testimonals from "./components/Testimonals"
     <Card />
     <Reservation />
     <Footer />
-    <Testimonals />
     
   </div>
    )
